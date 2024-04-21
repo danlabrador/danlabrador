@@ -14,7 +14,7 @@ A dedicated **Full Stack Engineer** with a focus on delivering high-quality and 
 
 
 <div align="right">
-  .
+  ㅤ
 </div>
 <div align="right">
   <a href="mailto:github@daniellabrador.com" target="_blank">
