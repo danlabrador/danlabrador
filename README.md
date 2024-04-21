@@ -46,13 +46,3 @@ A dedicated **Full Stack Engineer** with a focus on delivering high-quality and 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 </div>
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danlabrador/danlabrador/output/snake.svg" alt="Snake animation" />
-
-###
