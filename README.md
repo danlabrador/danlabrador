@@ -8,7 +8,7 @@ A dedicated **Full Stack Engineer** with a focus on delivering high-quality and 
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1019424511378067467/1231680656174747759/Semi-Formal_Candid_-_Engineering_Compressed.jpg?ex=6637d6ff&is=662561ff&hm=3fa7f1f89a87972b19cd706f630941384c1a2bc581706b6fb20cc994e3a7bf3e&"  />
+<img align="right" height="150" src="https://github.com/danlabrador/danlabrador/assets/38906634/a5263a4c-cd70-456a-afb5-ba4242ddb636"  />
 
 ###
 
