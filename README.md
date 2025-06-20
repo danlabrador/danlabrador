@@ -1,5 +1,5 @@
 # Hi, I'm Dan Labrador! 👋
-A dedicated **Data Analyst** with the focus of transforming raw data into actionable insights that drive business growth. I'm on the roadmap to becoming a Data Scientist.
+A dedicated **Analytics Engineer** with the focus of transforming raw data into actionable insights that drive business growth. I'm on the roadmap to becoming a Data Scientist.
 
 <div align="center">
 
