@@ -1,9 +1,14 @@
 # Hi, I'm Dan Labrador! 👋
-A dedicated **Analytics Engineer** with the focus of transforming raw data into actionable insights that drive business growth. I'm on the roadmap to becoming a Data Scientist.
+A **Software Engineer** with experience handling data transformations and data pipelines. I'm currently working on expanding my backend engineering skills with Python and Go using [boot.dev](https://www.boot.dev/u/danlabrador).
 
 <div align="center">
+  
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/92f3b984-de08-4511-ad3f-e6230b15e04e/thumbnail" >
+</p>
 
 <img align="left" height="150" src="https://github.com/danlabrador/danlabrador/assets/38906634/a5263a4c-cd70-456a-afb5-ba4242ddb636"  />
+
 
 ###
 
@@ -23,15 +28,9 @@ A dedicated **Analytics Engineer** with the focus of transforming raw data into 
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -39,5 +38,6 @@ A dedicated **Analytics Engineer** with the focus of transforming raw data into 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="Google Cloud Platform logo"  />
+  <img width="12" />
 </div>
