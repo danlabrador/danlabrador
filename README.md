@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="Google Cloud Platform logo"  />
   <img width="12" />
 </div>
+
 A **Software Engineer** with experience handling data transformations and data pipelines. I'm currently working on expanding my backend engineering skills with Python and Go using [boot.dev](https://www.boot.dev/u/danlabrador).
 
 
