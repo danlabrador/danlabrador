@@ -26,5 +26,5 @@ A **Software Engineer** with experience handling data transformations and data p
 <br />
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/92f3b984-de08-4511-ad3f-e6230b15e04e/thumbnail" >
+  <a href="https://www.boot.dev/u/danlabrador" target="_blank"><img src="https://api.boot.dev/v1/users/public/92f3b984-de08-4511-ad3f-e6230b15e04e/thumbnail" ></a>
 </p>
